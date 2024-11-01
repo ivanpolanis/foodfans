@@ -12,7 +12,7 @@ To run this project locally, ensure you have [**Node.js**](https://nodejs.org) a
 
 git  clone  https://github.com/ivanpolanis/foodfans.git
 
-cd  restaurant-review-app
+cd  foodfans
 
 ```
 
